@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Daniel Black",
+    "occupation": "Infosec dude",
+    "description": "Yes, Daniel Black is an alias. I enjoy tacos. I do things on computers. I know a bit about pentesting, application security and vulerability management",
+    "image": "hawk-glitch.gif",
+    "bio": "I enjoy working on computers. I'm a former application pentester, network pentester and current vulnerability analyst. I enjoy tinkering with web apps (though I hate building them), traveling through SSH tunnelz and finding cool ways to break things.",
+    "contactmessage": "I do things on computers.",
+    "email": "the_warboy_nux@gmail.com",
+    "phone": "Phone available on request.",
+    "address": {
+      "street": "Address info available on request",
+      "city": "Port Isabel",
+      "state": "Texas",
+      "zip": "78578"
+    },
+    "website": "https://github.com/DanielxBlack/DanielxBlack.github.io/raw/master/JDL_resume.pdf",
+    "resumedownload": "https://github.com/DanielxBlack/DanielxBlack.github.io/raw/master/JDL_resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jacob-lopez-b1217b15b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/DanielxBlack",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Things I do:",
+    "education": [
+      {
+        "school": "Western Governors University",
+        "degree": "BS in Cyber Security and Information Assurance",
+        "graduated": "March 2019",
+        "description": "Processes and prodecures of securing information systems. Network design and security. Vulnerability scanning, network discovery, exploiatation."
+      }
+    ],
+    "work": [
+      {
+        "company": "Rackspace",
+        "title": "Cyber Vulnerability Analyst and Pentester II",
+        "years": "November 2021 - Current",
+        "description": "Lead ASV (Approved Scanning Vendor) program. Build automation for ASV program and support automation for internal vulnerability scanning. Assist in designing and defining red team operations. Assist in creating automation to streamline red team operations. Help create processes for day-to-day operations."
+      },
+      {
+        "company": "Security Innovation",
+        "title": "Security Engineer and Application Pentester",
+        "years": "April 2021 - October 2021",
+        "description": "Vulnerability management for US Courts. Application and API Pentesting for Amazon Web Services (AWS). API testing with Postman. Web Application testing with Burp Suite Professional."
+      },
+      {
+        "company": "Rackspace",
+        "title": "Cyber Vulnerability Analyst and Pentester",
+        "years": "June 2019 - April 2021",
+        "description": "Run and manage vulnerability scans on infrastructure. Carry out network pentest engagements. Help maintain scripts and automation. Learn about new technology every day. Expand vulnerability scanning scope. Lead ASV program."
+      },
+      {
+        "company": "Defense Point Security",
+        "title": "Junior Cyber Defense Analyst",
+        "years": "October 2018 - May 2019",
+        "description": "Monitor Splunk ES Alerts and analyze data from firewall, IPS and IDS logs. Understand, identify and research indicators of compromise in organizations. Craft Splunk queries based on alerts. Narrow down cause of potential security issues, vulnerabilities or breaches. Basic investigations using Palo Alto firewall logs, ForeScout, and RSA NetWitness."
+      },
+      {
+        "company": "City of Brownsville",
+        "title": "MIS Network Security Analyst",
+        "years": "January 2016 - September 2018",
+        "description": "Help maintain network throughout 23 departments. Began as computer tech and promoted to network security analyst. Provide Desktop Support for over 400 computers, printing and storage devices. Assist network administrator and telecommunications coordinator with their larger projects as needed. Help maintain Brownsville's public wifi and IP camera systems. Analyze, evaluate and recommend hardware or software changes for various computer systems. Active Directory support with additional experience in ADAudit and ADManager software. Kaspersky Server administration support. Help monitor network for suspicious activity and help network administrator with server setups and configuration when needed. Help design and write up policies and procedures for safe use of computers and communications systems."
+      },
+      {
+        "company": "City of Harlingen",
+        "title": "MIS Computer Technician",
+        "years": "March 2015 - January 2016",
+        "description": "Assist with end-user computer problems. Help with basic IBM AS/400 support and terminal software installations. Assist in maintaining city website. Install and configure computers for users. Install and configure printers."
+      },
+      {
+        "company": "Freelance",
+        "title": "Writer and Editor",
+        "years": "Jan 2008 - March 2015",
+        "description": "Writer for VentureBeat. UBM for Byte Magazine relaunch. Editor, freelancer, writer for San Benito News."
+      }
+    ],
+    "skills": [
+      {
+        "name": "SSH Tunnelz",
+        "level": "90%"
+      },
+      {
+        "name": "Burp Suite",
+        "level": "70%"
+      },
+      {
+        "name": "Linux",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "Network Scanning",
+        "level": "80%"
+      },
+      {
+        "name": "Vulnerability Analyst",
+        "level": "90%"
+      },
+      {
+        "name": "Web App Testing",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "HacktheBox",
+        "category": "HacktheBox Ranking.",
+        "image": "HTB-badge.png",
+        "url": "https://app.hackthebox.com/profile/12885"
+      },
+      {
+        "title": "My Blog",
+        "category": "Blogging",
+        "image": "tacosnsecurity.png",
+        "url": "https://danielxblack.ghost.io/"
+      }
+    ]
+  },
+  "shouts": {
+    "shouts": [
+      {
+        "text": "The top three traits I'd use to describe Jacob are a continuous learner, humble, and a great team player. He is always hungry to learn new infosec topics and improve his knowledge and skills. The longer you spend in infosec, the more realize there's a lot to learn, and Jacob approaches the field with humility which segues into his last trait. I worked with Jacob for 2 years at Rackspace and saw him blossom from doing entry-level vulnerability management tasks, to start mentoring and instructing others on processes, scripts, and tools. He was always willing to help others and take on the \"not fun but required\" tasks to improve Rackspace's state of security. He would be asset to any team looking for a grounded and professional infosec teammate!",
+        "user": "Brennon Thomas (https://opsdisk.com)"
+      },
+      {
+        "text": "Pepsi and tacos are my jam.",
+        "user": "Daniel Black"
+      }
+    ]
+  }
+}
