@@ -41,6 +41,12 @@
     ],
     "work": [
       {
+        "company": "Wells Fargo",
+        "title": "Cyber Security Research Consultant",
+        "years": "December 2022 - Present",
+        "description": "Perform web application pentests using professional, industry-standard tools."
+      },
+      {
         "company": "Rackspace",
         "title": "Cyber Vulnerability Analyst and Pentester II",
         "years": "November 2021 - November 2022",
